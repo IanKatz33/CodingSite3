@@ -137,7 +137,8 @@ head {}
   text-decoration: none;
 }
 
-.bottom-container {background-color: white;}
+.bottom-container {background-color: white;
+margin-top: 30px;}
 
 .top-container {background-color: white;}
 
